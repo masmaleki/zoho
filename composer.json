@@ -1,16 +1,20 @@
 {
-  "name": "asciisd/zoho",
-  "description": "Asciisd Zoho provide an elegant and easy way to communicate with Zoho CRM.",
+  "name": "masmaleki/zoho",
+  "description": "Masmaleki Zoho provide an elegant and easy way to communicate with Zoho CRM.",
   "keywords": ["Laravel", "zoho", "crm"],
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/asciisd/zoho/issues",
-    "source": "https://github.com/asciisd/zoho"
+    "issues": "https://github.com/masmaleki/zoho/issues",
+    "source": "https://github.com/masmaleki/zoho"
   },
   "authors": [
     {
       "name": "Amr Ahmed",
       "email": "aemad@asciisd.com"
+    },
+    {
+      "name": "Mohammad Sadegh Maleki",
+      "email": "masmaleki@gmail.com"
     }
   ],
   "require": {
@@ -18,7 +22,7 @@
     "ext-json": "*",
     "illuminate/support": "^7.0|^8.0|^9.0",
     "nesbot/carbon": "^2.0",
-    "zohocrm/php-sdk-archive": "^2.2"
+    "zohocrm/php-sdk-2.1": "^6.0"
   },
   "require-dev": {
     "mockery/mockery": "^1.0",
