@@ -18,7 +18,7 @@ This package used to integrate with the new Zoho CRM
 Add Zoho CRM to your composer file via the `composer require` command:
 
 ```bash
-$ composer require asciisd/zoho
+$ composer require masmaleki/zoho
 ```
 
 Or add it to `composer.json` manually:
